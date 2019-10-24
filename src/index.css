@@ -1,0 +1,33 @@
+html,
+body {
+  font-family: Courier;
+  background-color: #77b2c9;
+}
+
+div.container {
+  min-height: 600px;
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 100px;
+  margin-bottom: 150px;
+  padding: 10px;
+  background-image: url("../background-image.jpg");
+  border-radius: 50px 0 0 50px;
+  border: white solid 10px;
+  box-shadow: 4px 3px 7px 2px #00000040;
+  text-align: center;
+}
+
+p {
+  font-size: 40px;
+}
+
+.orange {
+  color: orange;
+  font: bold;
+}
+
+.red {
+  color: red;
+  font: bold;
+}
